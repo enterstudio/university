@@ -1,3 +1,6 @@
+Dieses Repository enthält Prüfungsprotokolle und anderes Material aus meinem
+Informatik- und Mathematikstudium an der RWTH Aachen.
+
 <h2>Prüfungsprotokolle</h2>
 
 <ul>
